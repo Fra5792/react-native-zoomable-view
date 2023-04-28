@@ -53,11 +53,11 @@ We are working with the original maintainers of this library to transfer the NPM
 
 To add this package, run
 
-`npm add @openspacelabs/react-native-zoomable-view`
+`npm add @fra5792/react-native-zoomable-view`
 
 or
 
-`yarn add @openspacelabs/react-native-zoomable-view`
+`yarn add @fra5792/react-native-zoomable-view`
 
 ### Basic Usage
 
